@@ -17,7 +17,7 @@ class Kernel extends HttpKernel
         \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
     ];
 
-    /**
+    /*
      * The application's route middleware groups.
      *
      * @var array
